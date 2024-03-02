@@ -1,7 +1,3 @@
-Creating a comprehensive README file for a GitHub repository is essential for explaining the purpose, structure, and usage of your project, especially for a data analysis project like a COVID-19 portfolio project. Below is a template that you can adapt for your specific project:
-
----
-
 # COVID-19 Data Analysis Portfolio Project
 
 ## Project Overview
